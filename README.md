@@ -1,16 +1,27 @@
-## Hi there 👋
+# Merhaba, Ben Nursah Dalganoglu! 👋
 
-<!--
-**nurnurnur1987-cmd/nurnurnur1987-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Kendinizi 2-3 cümleyle tanıtın -->
+Türkiye merkezli bir Dil Uzmanı ve Yapay Zeka Veri Eğitmeniyim. Dil teknolojileri, ses kayıt projeleri ve yapay zeka modellerinin Türkçe dil yeteneklerini geliştirme konularına ilgi duyuyorum.
 
-Here are some ideas to get you started:
+## 🚀 İlgi Alanlarım & Yetkinlikler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Dil:** Türkçe (Anadil), İngilizce (İletişim)
+- **AI/Veri:** Veri Etiketleme (Annotation), Ses Kayıt (Voice Recording), Veri Kalite Kontrolü, AI Model Eğitimi (Veri Sağlama).
+- **Platformlar:** Outlier, ProZ.
+
+## 🛠️ Şu Anda Üzerinde Çalıştığım Şeyler
+
+- 🤖 Yapay zeka modelleri için kaliteli Türkçe veri setleri oluşturma projelerine katkı sağlıyorum.
+- 🎧 Rehberli ses kayıt ve diyalog toplama projelerinde yer alıyorum.
+
+## 📫 Benimle İletişime Geçin
+
+- **ProZ:** [ProZ Profil Linkinizi Buraya Yapıştırın]
+- **LinkedIn:** [LinkedIn Profil Linkinizi Buraya Yapıştırın]
+- **E-posta:** [E-posta Adresinizi Yazabilirsiniz]
+
+<!-- Bu kısım profil istatistiklerinizi gösterir, kod bilmeye gerek yoktur -->
+## ✨ GitHub İstatistiklerim
+
+![Nursah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[KULLANICI_ADINIZI_BURAYA_YAZIN]&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[KULLANICI_ADINIZI_BURAYA_YAZIN]&layout=compact&theme=radical)
