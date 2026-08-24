@@ -16,9 +16,8 @@ Türkiye merkezli bir Dil Uzmanı ve Yapay Zeka Veri Eğitmeniyim. Dil teknoloji
 
 ## 📫 Benimle İletişime Geçin
 
-- **ProZ:** [ProZ Profil Linkinizi Buraya Yapıştırın]
-- **LinkedIn:** [LinkedIn Profil Linkinizi Buraya Yapıştırın]
-- **E-posta:** [E-posta Adresinizi Yazabilirsiniz]
+- **LinkedIn:** [https://www.linkedin.com/in/nursah8783/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpLYDLQ8iQdiKys4dR5SFTQ%3D%3D]
+- **E-posta:** [nurnurnur1987@gmail.com]
 
 <!-- Bu kısım profil istatistiklerinizi gösterir, kod bilmeye gerek yoktur -->
 ## ✨ GitHub İstatistiklerim
